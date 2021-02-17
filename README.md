@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vít Tlustoš (@vtlustos)
+- 🌱 I’m a student of information technology at Brno University of Technology.
+- 👀 I’m interested in: 1. Machine learning/Data science, 2. Mobile and web app development.
+- 📫 How to reach me: tlustos.vit@gmail.com
