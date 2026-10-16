@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Vít Tlustoš (@vtlustos)
-- 🌱 I’m a student of information technology at Brno University of Technology.
-- 👀 I’m interested in: 1. Machine learning/Data science, 2. Mobile and web app development.
+- 🔬 My research interests lie in machine learning, with a primary focus on text and vision.
+- 💼 I work as a Machine Learning Researcher at Seznam.cz.
+- 🎓 I hold a master’s degree in Computer Science and Machine Learning from the Faculty of Information Technology (FIT), Brno University of Technology (BUT).
 - 📫 How to reach me: tlustos.vit@gmail.com
